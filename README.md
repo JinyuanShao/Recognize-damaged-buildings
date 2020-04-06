@@ -3,7 +3,7 @@ A deep learning model that recognize damaged buildings for based on post-disaste
 
 The code would release soon.
 
-疫情过后上传代码
+疫情过后上传代码（还不能回学校）
 
 主要思路是以EfficientNet-B0作为backbone构建一个U-Net结构的神经网络进行灾后建筑物的语义分割。
 
